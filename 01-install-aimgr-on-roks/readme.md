@@ -61,7 +61,7 @@ sh 19-print-url-usr-pwd.sh
 
 ## Reference
 
-The script is based out of https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops/3.5.0?topic=manager-starter-installation-cli
+The script is based out of https://www.ibm.com/docs/en/cloud-paks/cloud-pak-watson-aiops/3.6.0?topic=manager-starter-installation-cli
 
 
 ## Note
