@@ -44,8 +44,9 @@ PROBE_WEBHOOK_PASSWORD :
 
 You can use this link in SevOne to push alerts.
 
+#### 2.4. Note
 
-Note: If have have any `ImagePullBackOff` related issue, you can run the same install script just few minutes later. it should solve the problem
+If have have any `ImagePullBackOff` related issue, you can run the same install script just few minutes later. it should solve the problem
 
 ```
 webhookprobe.probes.integrations.noi.ibm.com/sevone-probe created
